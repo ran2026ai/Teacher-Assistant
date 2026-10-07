@@ -14,11 +14,17 @@
       "Bash(cp \"/c/Users/rsrat/teacher project/scripts/README.md\" \"/c/Users/rsrat/.claude/skills/teacher-project-setup/assets/templates/scripts-README.md\")",
       "Bash(cp \"/c/Users/rsrat/teacher project/docs/project-info.md\" \"/c/Users/rsrat/.claude/skills/teacher-project-setup/assets/templates/docs-project-info.md\")",
       "Bash(git remote *)",
-      "Bash(git add *)"
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git push *)",
+      "Bash(git credential-manager *)",
+      "Bash(git config *)",
+      "Bash(rm test.txt)"
     ],
     "additionalDirectories": [
       "C:\\Users\\rsrat\\.claude\\skills\\teacher-project-setup\\assets\\templates",
-      "C:\\Users\\rsrat\\.claude\\skills\\teacher-project-setup\\assets"
+      "C:\\Users\\rsrat\\.claude\\skills\\teacher-project-setup\\assets",
+      "C:\\Users\\rsrat\\teacher project"
     ]
   }
 }
