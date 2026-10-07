@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -la \"C:\\\\Users\\\\rsrat\\\\Downloads\")",
+      "Read(//c/Users/rsrat/Downloads/**)",
+      "Bash(copy C:\\\\Users\\\\rsrat\\\\teacher project\\\\README.md C:\\\\Users\\\\rsrat\\\\.claude\\\\skills\\\\teacher-project-setup\\\\assets\\\\templates\\\\README.md)",
+      "Bash(cp \"/c/Users/rsrat/teacher project/README.md\" \"/c/Users/rsrat/.claude/skills/teacher-project-setup/assets/templates/README.md\")",
+      "Bash(ls -la \"/c/Users/rsrat/.claude/skills/teacher-project-setup/\")",
+      "Read(//c/Users/rsrat/.claude/skills/**)",
+      "Bash(mkdir -p \"/c/Users/rsrat/.claude/skills/teacher-project-setup/assets/templates\")",
+      "Bash(cp \"/c/Users/rsrat/teacher project/lessons/lesson-template.md\" \"/c/Users/rsrat/.claude/skills/teacher-project-setup/assets/templates/lesson-template.md\")",
+      "Bash(cp \"/c/Users/rsrat/teacher project/assignments/sample-assignment.md\" \"/c/Users/rsrat/.claude/skills/teacher-project-setup/assets/templates/sample-assignment.md\")",
+      "Bash(cp \"/c/Users/rsrat/teacher project/resources/resource-inventory.md\" \"/c/Users/rsrat/.claude/skills/teacher-project-setup/assets/templates/resource-inventory.md\")",
+      "Bash(cp \"/c/Users/rsrat/teacher project/scripts/README.md\" \"/c/Users/rsrat/.claude/skills/teacher-project-setup/assets/templates/scripts-README.md\")",
+      "Bash(cp \"/c/Users/rsrat/teacher project/docs/project-info.md\" \"/c/Users/rsrat/.claude/skills/teacher-project-setup/assets/templates/docs-project-info.md\")",
+      "Bash(git remote *)",
+      "Bash(git add *)"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\rsrat\\.claude\\skills\\teacher-project-setup\\assets\\templates",
+      "C:\\Users\\rsrat\\.claude\\skills\\teacher-project-setup\\assets"
+    ]
+  }
+}
